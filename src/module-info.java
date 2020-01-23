@@ -7,4 +7,5 @@
  */
 module universalCloudSave
 {
+	requires dropbox.core.sdk;
 }
